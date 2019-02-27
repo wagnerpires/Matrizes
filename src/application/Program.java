@@ -7,7 +7,7 @@ public class Program {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
-		System.out.print("Dimensão da matriz: ");
+		System.out.print("Matriz dimension: ");
 		int n = sc.nextInt();
 		Integer[][] mat = new Integer[n][n];
 
